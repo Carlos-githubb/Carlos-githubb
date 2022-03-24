@@ -26,4 +26,4 @@ const CarlosDev = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@Carlos-githubb](https://github.com/Carlos-githubb)
