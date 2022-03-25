@@ -1,5 +1,5 @@
 <h2> Hi, I'm Carlos Salinas! <img src="https://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif" width="100"></h2>
-<img align='right' src="https://media.giphy.com/media/Mcrs7UvFVh0JX6NOf0/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
 <p><em>Software Enginner, I learned by my self from <a href="https://www.w3schools.com/">w3schools</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Software Developer and Computing Science lover <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
